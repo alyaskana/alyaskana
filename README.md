@@ -1,8 +1,8 @@
 # Hey! 👋 
 
-I am Alina, 23 years old frontend developer from Berlin.
+I am Alina, 23 years old frontend developer.
 
-I've been learning to code for five years, from simple HTML landings to developing mobile apps and media services using React and Ruby. I've also worked on various creative projects, exploring the possibilities of the web environment in the field of art, created synthesizers and generative art. I am interested in the theme of synthesis of nature and technology, to which I have dedicated several projects.
+I've been learning to code for more than five years, from simple HTML landings to developing mobile apps and media services using React and Ruby. I've also worked on various creative projects, exploring the possibilities of the web environment in the field of art, created synthesizers and generative art. I am interested in the theme of synthesis of nature and technology, to which I have dedicated several projects.
 
 *   🌍  I'm based in Berlin
 *   ⚡  I have a degree in design and programming
