@@ -5,7 +5,6 @@ I am Alina, a frontend developer based in Berlin.
 I've been coding for more than eight years, from simple HTML landings to mobile apps and media services built with React. These days a big part of my workflow is AI-assisted development with Claude Code. I also work on creative projects exploring the web as an art medium: synthesizers, generative art, interactive installations with p5.js, three.js and Arduino. I'm interested in the synthesis of nature and technology, to which I have dedicated several projects.
 
 *   ⚡  I have a degree in design and programming
-*   🧠  Now I'm building an interactive projection installation about the ocean
 *   🤝  I'm open to collaborating on educational interactive products, art and eco projects
 *   ✉️  Contact me [t.me/alyaskana](https://t.me/alyaskana)
 
